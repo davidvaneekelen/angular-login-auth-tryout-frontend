@@ -1,0 +1,12 @@
+{
+  "name": "angular-login-auth-tryout-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "angular": "^1.3.15"
+  }
+}
